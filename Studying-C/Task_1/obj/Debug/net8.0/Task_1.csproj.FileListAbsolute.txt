@@ -1,0 +1,14 @@
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/bin/Debug/net8.0/Task_1
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/bin/Debug/net8.0/Task_1.deps.json
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/bin/Debug/net8.0/Task_1.runtimeconfig.json
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/bin/Debug/net8.0/Task_1.dll
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/bin/Debug/net8.0/Task_1.pdb
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/Task_1.AssemblyInfoInputs.cache
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/Task_1.AssemblyInfo.cs
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/Task_1.csproj.CoreCompileInputs.cache
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/Task_1.dll
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/refint/Task_1.dll
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/Task_1.pdb
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/Task_1.genruntimeconfig.cache
+/Users/vladimircajka/Desktop/Работы/C#/lesson_2_massiv/Task_1/obj/Debug/net8.0/ref/Task_1.dll
